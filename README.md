@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @virtualdann
-- 📫 How to reach me 
-  -  📧 : imdan@umich.edu 
 
 <!---
 virtualdann/virtualdann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
